@@ -5,6 +5,8 @@ This will be a first attempt at a discord bot for personal/fun use.  It is meant
 ## Features: 
 ###### *in work/TBD*
 - Tell dad jokes on command
+  - API: [Dad Jokes](https://dadjokes.io)
+  - Subscribed through: [RapidAPI](https://www.rapidapi.com)
 - Tell cat facts on demand
   - This won't be an API but rather an internal function and file with some random facts I can find
 - Have a help menu
