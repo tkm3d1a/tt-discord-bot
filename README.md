@@ -16,6 +16,18 @@ This will be a first attempt at a discord bot for personal/fun use.  It is meant
   - turned off only by a command
 - info menu?
 
+
+## Progress tracking
+
+- 10/8/22
+  - Have bot token information transfered over from previous tests
+  - setup discord.js and rest fo folder structure
+  - Successfully tested and saw successfull login
+  - still using dotenv
+  - no commands registered yet
+  - following tutorial from here: [discord.js guide](https://discordjs.guide/creating-your-bot/)
+    - Left off on "Creating commands" step
+    
 ---
 Made By: Tim Tinkers
 
