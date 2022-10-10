@@ -27,6 +27,23 @@ This will be a first attempt at a discord bot for personal/fun use.  It is meant
   - no commands registered yet
   - following tutorial from here: [discord.js guide](https://discordjs.guide/creating-your-bot/)
     - Left off on "Creating commands" step
+
+- 10/10/22
+  - Successfully registered three commands to bot
+  - built out replies to those commands using if/else blocks
+  - encountered bug with giving js variables in strings
+    - marked both with TODO's in files.  Still need to investigate mroe
+  - tested in server, working correctly
+  - Next step is to move commands to seperate files
+    - left off: [discord.js commands guide](https://discordjs.guide/creating-your-bot/command-handling.html#individual-command-files)
+
+## Addtional Resources
+
+Info on Builders in discord.js
+- [Builders](https://discordjs.guide/popular-topics/builders.html)
+
+Discord.js Docs
+- [Discord.js Docs](https://discord.js.org/#/docs/discord.js/main/general/welcome)
     
 ---
 Made By: Tim Tinkers
