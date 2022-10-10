@@ -19,15 +19,6 @@ This will be a first attempt at a discord bot for personal/fun use.  It is meant
 
 ## Progress tracking
 
-- 10/8/22
-  - Have bot token information transfered over from previous tests
-  - setup discord.js and rest fo folder structure
-  - Successfully tested and saw successfull login
-  - still using dotenv
-  - no commands registered yet
-  - following tutorial from here: [discord.js guide](https://discordjs.guide/creating-your-bot/)
-    - Left off on "Creating commands" step
-
 - 10/10/22
   - Successfully registered three commands to bot
   - built out replies to those commands using if/else blocks
@@ -36,6 +27,15 @@ This will be a first attempt at a discord bot for personal/fun use.  It is meant
   - tested in server, working correctly
   - Next step is to move commands to seperate files
     - left off: [discord.js commands guide](https://discordjs.guide/creating-your-bot/command-handling.html#individual-command-files)
+
+- 10/8/22
+  - Have bot token information transfered over from previous tests
+  - setup discord.js and rest fo folder structure
+  - Successfully tested and saw successfull login
+  - still using dotenv
+  - no commands registered yet
+  - following tutorial from here: [discord.js guide](https://discordjs.guide/creating-your-bot/)
+    - Left off on "Creating commands" step
 
 ## Addtional Resources
 
