@@ -19,6 +19,17 @@ This will be a first attempt at a discord bot for personal/fun use.  It is meant
 
 ## Progress tracking
 
+- 10/11/22
+  - Fixed bug for reading js variables
+    - the fix was changing the string to use backticks(`) instead of single quotes(')
+  - Moved commands to their own seperate files
+  - Made event folder structure as well
+  - Tested working, saw new console log statment on interactionCreate's
+  - left old code in index.js for tracking, will remove eventually
+  - next step is to work on custom interactions?
+  - Left off:
+    - [discord.js interactions](https://discordjs.guide/interactions/slash-commands.htm)
+    
 - 10/10/22
   - Successfully registered three commands to bot
   - built out replies to those commands using if/else blocks
