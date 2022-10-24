@@ -19,6 +19,17 @@ This will be a first attempt at a discord bot for personal/fun use.  It is meant
 
 ## Progress tracking
 
+- 10/27/22
+  - https://aws.random.cat/meow
+  - https://api.urbandictionary.com/v0/define?term=hello%20world
+  - Successfully got the cat image fetch to work with undici
+  - Still having issues trying to use node-fetch
+    - Seems to have some incompatiability
+    - receiving ```function not found``` and ```properties undefined``` errors when trying different methods
+    - Have tried both v3.x and v2.x per various stackoverflow searches
+    - Need to continue trouble shooting later
+  - Added rapidAPI key for dad jokes to dotenv and setup to call/hide correctly
+
 - 10/23/22
   - Added info for adding rest api calls in resources section
   - nothing added to code
