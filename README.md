@@ -29,6 +29,12 @@ This will be a first attempt at a discord bot for personal/fun use.  It is meant
     - Have tried both v3.x and v2.x per various stackoverflow searches
     - Need to continue trouble shooting later
   - Added rapidAPI key for dad jokes to dotenv and setup to call/hide correctly
+  - **Evening fixes:**
+    - Fixed node fetch
+    - Got embed working
+    - Calling dadjoke api successfully
+    - Now to clean up and figure best way to present joke in chat
+    - Possibly add counter to avoid using api call to often
 
 - 10/23/22
   - Added info for adding rest api calls in resources section
