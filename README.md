@@ -19,6 +19,11 @@ This will be a first attempt at a discord bot for personal/fun use.  It is meant
 
 ## Progress tracking
 
+- 10/23/22
+  - Added info for adding rest api calls in resources section
+  - nothing added to code
+  - Allows starting on API calls for dad jokes as next step
+
 - 10/11/22
   - Fixed bug for reading js variables
     - the fix was changing the string to use backticks(`) instead of single quotes(')
@@ -55,6 +60,9 @@ Info on Builders in discord.js
 
 Discord.js Docs
 - [Discord.js Docs](https://discord.js.org/#/docs/discord.js/main/general/welcome)
+
+REST API info
+- [undici guide](https://discordjs.guide/additional-info/rest-api.html#making-http-requests-with-node)
     
 ---
 Made By: Tim Tinkers
